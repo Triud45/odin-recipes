@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe webpage with a main index page and several links that will redirect to different webpage recipes based on which link you click. I will demonstrate basic HTML coding skills such as formatting text, making hypertext links, adding images, etc.
